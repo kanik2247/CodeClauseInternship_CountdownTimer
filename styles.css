@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
 .main{
     width:100%;
